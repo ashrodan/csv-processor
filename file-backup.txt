@@ -1,0 +1,7 @@
+external id,task titile,inventory needs,Waypoint position,Scheduled Date time in timezone,Customer name,Customer phone,address line 1,address line 2,postcode,invesntory title,note
+9861429155,Delivery 2342-DE-2342,0,1,18/07/2018 10:00,Berlin Mitte/Potsdamer Platz,,Leipziger Str. 104,Berlin,10117,PDAR,
+9861429155,Delivery 2342-DE-2343,1,2,18/07/2018 10:00,MILLS,+972584700099,Charlottenstr. 49,Berlin,10117,PDAR,
+9857557082,Delivery 4442-DE-2388,0,1,18/07/2018 12:00,Berlin Mitte/Potsdamer Platz,,Leipziger Str. 104,Berlin,10117,FVMR,
+9857557082,Delivery 4442-DE-2388,1,2,18/07/2018 12:00,RODZIK,+972584700099,Krausenstr. 35-36,Berlin,10117,FVMR,
+9863391307,Delivery 5542-DE-2399,0,1,18/07/2018 15:00,Berlin Charlottenburg,,Kaiserdamm 37,Berlin,14057,SVMR,
+9863391307,Delivery 5542-DE-2399,1,2,18/07/2018 15:00,SOMMER,+972584700099,Wohlrabedamm 31,Berlin,13629,SVMR,
