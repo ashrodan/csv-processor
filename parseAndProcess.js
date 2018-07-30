@@ -4,7 +4,7 @@ const byline = require('byline');
 const csv = require('csv');
 const request = require('request-promise')
 
-const CREATE_TASK_ENDPOINT = 'https://eu1-admin-api.bringg.com/services/6f15901b/c647fa2b-df87-44fc-9eb8-251215c92765/cf39f4d3-5c41-461e-b10a-15010a3bab2d/';
+const CREATE_TASK_ENDPOINT = '';
 const INCOMING_FORMAT = 'DD/MM/YY hmm';
 const TIMEZONE = 'Europe/Berlin';
 const OUTGOING_FORMATING = 'DD/MM/YYYY hh:mm';
